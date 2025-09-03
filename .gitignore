@@ -1,0 +1,8 @@
+# Fichiers d'environnement 
+.env
+
+# Fichiers de cache Python
+__pycache__/
+
+# Notebooks (les fichiers temporaires)
+.ipynb_checkpoints/
